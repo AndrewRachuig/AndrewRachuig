@@ -1,6 +1,6 @@
 ## Hi I'm Andrew
 
-####I'm currently studying Data Science with Codeup
+#### I'm currently studying Data Science with Codeup
 - with a focus on Python, SQL, Tableau, Spark
 
 <!--
