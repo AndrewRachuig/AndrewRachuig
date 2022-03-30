@@ -1,7 +1,7 @@
 ## Hi I'm Andrew
 
 #### I'm currently studying Data Science with Codeup
-- with a focus on Python, SQL, Tableau, Spark
+- Python, SQL, Tableau, Spark
 
 <!--
 **AndrewRachuig/AndrewRachuig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
